@@ -1,0 +1,9 @@
+.header{
+    border: 3px solid black;
+    /* width: 1200px; */
+    height: 200px;
+    background-color: rgb(23, 190, 208);
+    float: top;
+    margin: 50px;
+
+}
